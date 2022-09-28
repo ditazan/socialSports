@@ -1,1 +1,3 @@
-## SOCIAL SPORTS
+## Widmi
+
+Widmi is a Mern stack application and website that allows users to make reservations at sporting facilities, find people around them to play with or create their own teams to play against others, and share content with their friends. Users can track their stats and gain experience points from booking through the app. Points can be redeemed at certain facilities for goodies or extra playtime. 
